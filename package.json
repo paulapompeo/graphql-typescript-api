@@ -1,0 +1,8 @@
+{
+  "name": "graphql-typescript-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:paulapompeo/graphql-typescript-api.git",
+  "author": "paulapompeo <paulapompeoc@gmail.com>",
+  "license": "MIT"
+}
